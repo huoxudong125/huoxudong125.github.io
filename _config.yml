@@ -69,6 +69,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  message: Init blog
+  message: update blog
   repo: https://github.com/huoxudong125/huoxudong125.github.io.git 
  
