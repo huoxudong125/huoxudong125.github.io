@@ -10,7 +10,7 @@ date: 2017-01-23 11:27:30
 
 博客园的网址:[LookIntoCoding](http://hqfz.cnblogs.com)
 
-
+关于博客多机配置，参考[这里](http://flamepeak.coding.me/2016/08/29/hexo-multi-PC-sync-config/)
 
 
 
